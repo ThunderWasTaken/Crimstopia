@@ -8,21 +8,21 @@
 
 		"startIntroPart1": "Zappelyne Crims of Crimstopia, a powerhouse of a civilization that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation, lead the way, our great Matriarch.",
 
-		"declaringWar": "You have been too much of a burden to us, and I have calculated that getting rid of you will be more efficient, get ready for war.",
-		"attacked": "Foolish, as I told you, messing with us will only lead to death, prepare for destruction.",
-		"defeated": "You have truly shown your power to us, We have lost, but history repeats itself and you will fall as the gates of hell swallow you whole.",
-		"introduction": "Greetings stranger, don?t mess with us and we won?t mess with you, let's hope I won?t need to repeat this sentence.",
+		"declaringWar": "You have been too much of a burden to us, prepare for war.",
+		"attacked": "Foolish.",
+		"defeated": "We have lost, but history repeats itself and you will fall as the gates of hell swallow you whole.",
+		"introduction": "Greetings stranger.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "Here?s a good deal.",
+		"tradeRequest": "Whether this deal is fair or not, I think it is in your best interest to accept.",
 
 		"outerColor": [7, 0, 209],
 		"innerColor": [8, 46, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mercenaries",
-		"uniques": ["[+50]% Strength <for [{Military} {Land}] units>","[+3 Culture] [in all cities] <after discovering [Gunpowder]>"]
+		"uniques":[Land] units gain the [Drill I] promotion","[+10]% Strength <for [{Military} {Land}] units>","[+3 Culture] [in all cities] <after discovering [Gunpowder]>"]
 		"cities": ["Crimstopia","Thuntopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Eretchyan","Limgabole","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia", "Harkir","Mootual","Babelo","Donesi","Inan","Barron",
