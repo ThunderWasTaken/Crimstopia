@@ -25,7 +25,37 @@
 		"uniques":[Land] units gain the [Drill I] promotion","[+10]% Strength <for [{Military} {Land}] units>","[+3 Culture] [in all cities] <after discovering [Gunpowder]>"]
 		"cities": ["Crimstopia","Thuntopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Eretchyan","Limgabole","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
-			"Aaras","Clouse","Dustmug","Greenray","Jaxinia", "Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal City"]
-	}        	
+	},
+        {
+		"name": "Vestige",
+		"leaderName": "Frost Acolyte",
+		"adjective": ["Vestige"],
+		"startBias": ["Avoid [Forest]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Frost Acolyte of The Vestige, not a fan of conversation or flexxing so we'll just get on with it.",
+
+		"declaringWar": "May the gods have mercy on your souls.",
+		"attacked": "Well that is just cute...",
+		"defeated": "This is 2035 all over again!",
+		"introduction": "Better scramble like an egg before we fold you like an omelette.",
+
+		"neutralHello": "Yes?",
+		"hateHello": "Go away.",
+
+		"tradeRequest": "Shut up and accept or deny this trade.",
+
+		"outerColor": [43, 0, 7],
+		"innerColor": [0, 65, 79],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Mark of Death",
+		"uniques":[Land] units gain the [Shock I] promotion","New military units start with [15] Experience","[+8 Production] [in all cities] <after discovering [Stealth]>"]
+		"cities": ["Vertigo","Acolyte","Steel Cove","Wargate","Stormspace","Iris","Kextron","Diminri","Jugglek","Lakestead",
+			"Hellion","Prophets","Invast","Wittnes","Parter","Subjugate","Fleet","Chlims","Equino","Glare",
+			"Bloxx","Rashs","Roselin","Cish","Winger","Ximxem","Drift","Splintered","Manohang","La'foole","Jacksons",
+			"Efer","Artisa","Pyre","Jermton","Gils", "Frans","Joma","Mafa","Terib","Dreamer","Resident"]
+        },
 ]
+
