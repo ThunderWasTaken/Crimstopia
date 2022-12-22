@@ -6,7 +6,7 @@
 		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Zappelyne Crims of Crimstopia, a powerhouse of a civilization that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation, lead the way, our great Matriarch.",
+		"startIntroPart1": "Zappelyne Crims of Crimstopia, a powerhouse of a civilization that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation, lead the way, our great Matriarch. Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "You have been too much of a burden to us, prepare for war.",
 		"attacked": "Foolish.",
@@ -35,7 +35,7 @@
 		"startBias": ["Avoid [Forest]"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Frost Acolyte of The Vestige, not a fan of conversation or flexxing so we'll just get on with it.",
+		"startIntroPart1": "Frost Acolyte of The Vestige, a great organization turned nation, destroyed in 2035. But is Vestige truly gone? As the name implies, we still leave a mark on this world and we will build a civiization that stands the test of time. ",
 
 		"declaringWar": "May the gods have mercy on your souls.",
 		"attacked": "Well that is just cute...",
