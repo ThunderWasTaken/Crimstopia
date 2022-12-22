@@ -20,9 +20,9 @@
 
 		"outerColor": [7, 0, 209],
 		"innerColor": [8, 46, 0],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Buddhism",
 		"uniqueName": "Mercenaries",
-		"uniques":[Land] units gain the [Drill I] promotion","[+10]% Strength <for [{Military} {Land}] units>","[+3 Culture] [in all cities] <after discovering [Gunpowder]>"]
+		"uniques":[Land] units gain the [Drill I] promotion","[+10]% Strength <for [{Military} {Land}] units>","Starts with [Mercenary Army] adopted>"]
 		"cities": ["Crimstopia","Thuntopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Eretchyan","Limgabole","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
@@ -40,7 +40,7 @@
 		"declaringWar": "May the gods have mercy on your souls.",
 		"attacked": "Well that is just cute...",
 		"defeated": "This is 2035 all over again!",
-		"introduction": "Better scramble like an egg before we fold you like an omelette.",
+		"introduction": "Hello.",
 
 		"neutralHello": "Yes?",
 		"hateHello": "Go away.",
