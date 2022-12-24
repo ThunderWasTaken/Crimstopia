@@ -18,8 +18,8 @@
 
 		"tradeRequest": "Whether this deal is fair or not, I think it is in your best interest to accept.",
 
-		"outerColor": [121, 93, 12],
-		"innerColor": [207, 91, 27],
+		"outerColor": [1, 57, 2],
+		"innerColor": [6, 75, 133],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Mercenaries",
 		"uniques":["[Land] units gain the [Drill I] promotion","Starts with [Commerce] adopted"]
@@ -47,7 +47,7 @@
 
 		"tradeRequest": "Shut up and accept or deny this trade.",
 
-		"outerColor": [285, 83, 18],
+		"outerColor": [82, 11, 125],
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mark of Death",
