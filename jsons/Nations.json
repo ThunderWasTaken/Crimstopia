@@ -22,7 +22,7 @@
 		"innerColor": [8, 46, 0],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Mercenaries",
-		"uniques":"[Land] units gain the [Drill I] promotion","Starts with [Mercenary Army] adopted"
+		"uniques":["[Land] units gain the [Drill I] promotion","Starts with [Mercenary Army] adopted"]
 		"cities":["Crimstopia","Thuntopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Eretchyan","Limgabole","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
@@ -51,7 +51,7 @@
 		"innerColor": [0, 65, 79],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mark of Death",
-		"uniques":"[Land] units gain the [Shock I] promotion","New military units start with [15] Experience"
+		"uniques":["[Land] units gain the [Shock I] promotion","New military units start with [15] Experience"]
 		"cities": ["Vertigo","Acolyte","Steel Cove","Wargate","Stormspace","Iris","Kextron","Diminri","Jugglek","Lakestead",
 			"Hellion","Prophets","Invast","Wittnes","Parter","Subjugate","Fleet","Chlims","Equino","Glare",
 			"Bloxx","Rashs","Roselin","Cish","Winger","Ximxem","Drift","Splintered","Manohang","La'foole","Jacksons",
