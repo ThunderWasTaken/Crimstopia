@@ -21,10 +21,10 @@
 		"outerColor": [38, 228, 54],
 		"innerColor": [55, 61, 183],
 		"favoredReligion": "Buddhism",
-		"uniqueName": "Mercenaries",
-		"uniques":["[Land] units gain the [Drill I] promotion","Starts with [Commerce] adopted"]
+		"uniqueName": "Crimstopian Honor",
+		"uniques":["[Land] units gain the [Drill I] promotion","[Land] units gain the [Formation I] promotion"]
 		"cities":["Crimstopia","Thuntopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
-			"Courseor","Eretchyan","Limgabole","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+			"Courseor","Eretchyan","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal City"]
 	},
@@ -35,7 +35,7 @@
 		"startBias": ["Avoid [Forest]"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Frost Acolyte of The Vestige, a great organization turned nation, destroyed in 2035. But is Vestige truly gone? As the name implies, we still leave a mark on this world and we will build a civiization that stands the test of time. ",
+		"startIntroPart1": "Frost Acolyte of The Vestige, a great organization turned nation, destroyed in 2035. But is Vestige truly gone? As the name implies, we still leave a mark on this world. Can we build a civiization that stands the test of time?",
 
 		"declaringWar": "May the gods have mercy on your souls.",
 		"attacked": "Well that is just cute...",
@@ -51,11 +51,39 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mark of Death",
-		"uniques":["[Land] units gain the [Shock I] promotion","New [military] units start with [15] Experience [in all cities]"]
+		"uniques":["[Land] units gain the [Shock I] promotion","[Land] units gain the [Cover I] promotion"]
 		"cities": ["Vertigo","Acolyte","Steel Cove","Wargate","Stormspace","Iris","Kextron","Diminri","Jugglek","Lakestead",
 			"Hellion","Prophets","Invast","Wittnes","Parter","Subjugate","Fleet","Chlims","Equino","Glare",
 			"Bloxx","Rashs","Roselin","Cish","Winger","Ximxem","Drift","Splintered","Manohang","La'foole","Jacksons",
 			"Efer","Artisa","Pyre","Jermton","Gils", "Frans","Joma","Mafa","Terib","Dreamer","Resident"]
         },
+        {
+		"name": "Goldenhand",
+		"leaderName": "Midas Goldenhand",
+		"adjective": ["Goldenhandian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+
+        "startIntroPart1": "Midas Goldenhand of the Nation of Goldenhand, a nation formerly a cooperation which rised up through careful 'negotiations' and loopholes, a nation full of great merchants and nobles which nearly fell to the hands of the Crimstopians in 2041. Can you build a civilization that will stand the test of time?",
+
+        "declaringWar": "Let us negotiate.",
+		"attacked": "Can we do this later?",
+		"defeated": "Will you let me go if I give you ten thousand?",
+		"introduction": "Ah! Another person to trade with!",
+
+		"neutralHello": "Is there something I can help you with?",
+		"hateHello": "Just know that I won't give you a discount.",
+
+		"tradeRequest": "I've been waiting to strike this trade for a while now!",
+
+		"outerColor": [255, 222, 54],
+		"innerColor": [84, 70, 0],
+		"uniqueName": "Golden Touch",
+		"uniques": ["Starts with [Trade Unions] adopted", "[Great Merchant] is earned [50]% faster"],
+		"cities": ["Midasia","Silverhead","Copperstread","Mahogania","Platinum City","Diamondfist","Grandia","Crescent","Minestorm","Facilitus",
+			"Gretton","Aluca","Lexinstread","Sinton","Ashwood","Greatmen","Nivereh","Alloye","Anqua","Luzini",
+			"Hellstone","Adamantine","Titan","Mythrine","Goldenhand Estate","Arakon","Insinte","Blastin","Tradd","Songear",
+			"Riverstread","Antons","Ambergear","Nael","Mercur","Diller","Eskap","Claud","Cage","Dailand"]
+		},
 ]
 
