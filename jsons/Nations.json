@@ -104,8 +104,8 @@
 
 		"tradeRequest": "I don't believe you have a choice in this matter.",
 
-		"outerColor": [38, 228, 54],
-		"innerColor": [55, 61, 183],
+		"outerColor": [255, 23, 50],
+		"innerColor": [112, 0, 0],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Destroyers",
 		"uniques":["[-50]% maintenance costs for [Land] units","[+1] Movement for [Land] units"]
