@@ -84,6 +84,35 @@
 			"Gretton","Aluca","Lexinstread","Sinton","Ashwood","Greatmen","Nivereh","Alloye","Anqua","Luzini",
 			"Hellstone","Adamantine","Titan","Mythrine","Goldenhand Estate","Arakon","Insinte","Blastin","Tradd","Songear",
 			"Riverstread","Antons","Ambergear","Nael","Mercur","Diller","Eskap","Claud","Cage","Dailand"]
-		},
+	},
+	{
+		"name": "Scarlet Legion",
+		"leaderName": "Crimson Karita",
+		"adjective": ["Scarlet"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Crimson Karita of the Scarlet Legion, our great leader who rules with the might of a thousand lions, a civilization with the power of gods thriving under the rule of Karita. After being assassinated, the kingdom fell into anarchy and eventually fell days after your death. But here you are, reborn in a brand new world. Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "You really should've seen this coming.",
+		"attacked": "Bring it on, you dog!",
+		"defeated": "This isn't over.",
+		"introduction": "You should savor your time, as it will end soon.",
+
+		"neutralHello": "What?",
+		"hateHello": "Go to hell.",
+
+		"tradeRequest": "I don't believe you have a choice in this matter.",
+
+		"outerColor": [38, 228, 54],
+		"innerColor": [55, 61, 183],
+		"favoredReligion": "Hinduism",
+		"uniqueName": "Destroyers",
+		"uniques":["[-50]% maintenance costs for [Land] units","[+1] Movement for [Land] units"]
+		"cities":["Scarletia","Annastashia","Orkenwel","Maund","Slectors","Cantoria","Ishin","Unstead","Zealots","Militian",
+			"Marks","Murtar","Sordenhome","Shields","Victor","Ziela","Qansen","Acolint","Zaint","Efrain",
+			"Jessic","Andere","Redfield","Darkwall","Mountsky","Bluen","Inferno","Asteno","Wernt","Kald","Tuarna",
+			"Ferrine","Glory","Rift","Pale","Nine","Shen","Rez","Marvin","Morivanna","Mestoor","Alkhaimstine"]
+	},
 ]
 
