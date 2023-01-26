@@ -114,5 +114,34 @@
 			"Jessic","Andere","Redfield","Darkwall","Mountsky","Bluen","Inferno","Asteno","Wernt","Kald","Tuarna",
 			"Ferrine","Glory","Rift","Pale","Nine","Shen","Rez","Marvin","Morivanna","Mestoor","Alkhaimstine"]
 	},
+	{
+		"name": "Flamewakens",
+		"leaderName": "Ryder Fiends",
+		"adjective": ["Flamewoken"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Ryder Fiends of the Flamewakens, a civilization focused on riding with expertise on mounted combat. After many years of riding, you have fallen ill and eventually perished due to disease, but now here you are, Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "We ride at dawn!",
+		"attacked": "Wait wait wait! Let me get my horse first!",
+		"defeated": "You'll never take me alive!",
+		"introduction": "Woah! I'm riding here!",
+
+		"neutralHello": "Hey.",
+		"hateHello": "Get out the bloody way!",
+
+		"tradeRequest": "This is a sweet deal if I say so myself.",
+
+		"outerColor": [255, 119, 0],
+		"innerColor": [158, 11, 11],
+		"favoredReligion": "Taoism",
+		"uniqueName": "Hellriders",
+		"uniques":["[+20]% Production <for [Mounted] Units>", "Receive free [Horseman] when you discover [Horseback Riding]", "Receive free [Knight] when you discover [Chivalry]", "Receive free [Cavalry] when you discover [Military Science]", "[+1 Culture] from every [Pasture]"]
+		"cities":["Rainstorm","Ridinfield","Hoovestead","Neighsville","Dashe","Quicksand Dunes","Ryder's Park","Kalau","Queenton","Nightrider",
+			"Hursmann","Kavelri","Noumdet","Vecotira","Yanow","Rish","Placeholder cuz I got bored","Placeholdin cuz I got bored","Placeholded cuz I got bored","Placehold cuz I got bored",
+			"Why are there so many city names","Dear god","Make it stop","Making city names","Is legit","the most time-consuming","task while","making a new","goddamn civ","like I can","literally make",
+			"make an entire","coherent sentence","while making","these stupid","freakin city names","and I am","not even done","yet like bruh","Crimstopia is a self insert","I made all of these up","without paying attention to how real cities are made"]
+    },
 ]
 
