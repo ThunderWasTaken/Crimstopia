@@ -115,13 +115,13 @@
 			"Ferrine","Glory","Rift","Pale","Nine","Shen","Rez","Marvin","Morivanna","Mestoor","Alkhaimstine"]
 	},
 	{
-		"name": "Flamewakens",
+		"name": "Flamewokens",
 		"leaderName": "Ryder Fiends",
 		"adjective": ["Flamewoken"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Ryder Fiends of the Flamewakens, a civilization focused on riding with expertise on mounted combat. After many years of riding, you have fallen ill and eventually perished due to disease, but now here you are, Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Ryder Fiends of the Flamewokens, a civilization focused on riding with expertise on mounted combat. After many years of riding, you have fallen ill and eventually perished due to disease, but now here you are, Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "We ride at dawn!",
 		"attacked": "Wait wait wait! Let me get my horse first!",
