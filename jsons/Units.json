@@ -1,0 +1,17 @@
+[
+	  {
+		"name": "Swordspear",
+		"unitType": "Sword",
+		"uniqueTo": "Crimstopia",
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+    },
+  ]
