@@ -21,8 +21,8 @@
 		"outerColor": [38, 228, 54],
 		"innerColor": [55, 61, 183],
 		"favoredReligion": "Buddhism",
-		"uniqueName": "Crimstopian Honor",
-		"uniques":["[Land] units gain the [Drill I] promotion","[Land] units gain the [Formation I] promotion"]
+		"uniqueName": "Winds of Hope",
+		"uniques":["[Land] units gain the [Drill I] promotion","Gain a free [Windmill] [in all cities]"]
 		"cities":["Crimstopia","Thuntopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Eretchyan","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
@@ -50,8 +50,8 @@
 		"outerColor": [135, 45, 189],
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Mark of Death",
-		"uniques":["[Land] units gain the [Shock I] promotion","[Land] units gain the [Cover I] promotion"]
+		"uniqueName": "Determined Laborers",
+		"uniques":["[Land] units gain the [Shock I] promotion","[+2 Production] from every specialist [in all cities]"]
 		"cities": ["Vertigo","Acolyte","Steel Cove","Wargate","Stormspace","Iris","Kextron","Diminri","Jugglek","Lakestead",
 			"Hellion","Prophets","Invast","Wittnes","Parter","Subjugate","Fleet","Chlims","Equino","Glare",
 			"Bloxx","Rashs","Roselin","Cish","Winger","Ximxem","Drift","Splintered","Manohang","La'foole","Jacksons",
@@ -79,7 +79,7 @@
 		"outerColor": [255, 222, 54],
 		"innerColor": [84, 70, 0],
 		"uniqueName": "Golden Touch",
-		"uniques": ["Starts with [Trade Unions] adopted", "[Great Merchant] is earned [50]% faster"],
+		"uniques": ["[+5 Gold, +5 Faith] from every [Customs House]", "[Great Merchant] is earned [100]% faster"],
 		"cities": ["Midasia","Silverhead","Copperstread","Mahogania","Platinum City","Diamondfist","Grandia","Crescent","Minestorm","Facilitus",
 			"Gretton","Aluca","Lexinstread","Sinton","Ashwood","Greatmen","Nivereh","Alloye","Anqua","Luzini",
 			"Hellstone","Adamantine","Titan","Mythrine","Goldenhand Estate","Arakon","Insinte","Blastin","Tradd","Songear",
