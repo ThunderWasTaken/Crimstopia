@@ -162,8 +162,8 @@
 
 		"tradeRequest": "I hope this trade will benefit both of our civilizations well.",
 
-		"outerColor": [221, 255, 158],
-		"innerColor": [128, 59, 110],
+		"outerColor": [54, 71, 92],
+		"innerColor": [51, 59, 68],
 		"favoredReligion": "Taoism",
 		"uniqueName": "Hunters of the Forest",
 		"uniques":["[+1 Science, +1 Production] from every [Camp], [+15]% Production <for [Ranged] Units>"]
