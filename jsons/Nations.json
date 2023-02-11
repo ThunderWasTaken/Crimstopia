@@ -142,6 +142,35 @@
 			"Hursmann","Kavelri","Noumdet","Vecotira","Yanow","Rish","Placeholder cuz I got bored","Placeholdin cuz I got bored","Placeholded cuz I got bored","Placehold cuz I got bored",
 			"Why are there so many city names","Dear god","Make it stop","Making city names","Is legit","the most time-consuming","task while","making a new","goddamn civ","like I can","literally make",
 			"make an entire","coherent sentence","while making","these stupid","freakin city names","and I am","not even done","yet like bruh","Crimstopia is a self insert","I made all of these up","without paying attention to how real cities are made"]
-    },
+    	},
+	{
+		"name": "Drakhonikus",
+		"leaderName": "Draco Lancet Crims",
+		"adjective": ["Drakhonikan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Oh Draco Lancet Crims of Drakhonikus, a great ruler with the precision of a shooting star. You ruled over Drakhonikus for most of your life, giving the empire a great golden age, changing the world for the better, being the distant sibling of the Crimstopian leader, you managed to uphold your power through sheer words and cunning actions, Oh great Draco Crims, your civilization needs you once more, Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "We all knew war was inevitable.",
+		"attacked": "I suppose actions speak louder than words!",
+		"defeated": "I applaud you, be merciful to my people.",
+		"introduction": "Hello there friend, I welcome you to Drakhonikus!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "Hm?",
+
+		"tradeRequest": "I hope this trade will benefit both of our civilizations well.",
+
+		"outerColor": [221, 255, 158],
+		"innerColor": [128, 59, 110],
+		"favoredReligion": "Taoism",
+		"uniqueName": "Hunters of the Forest",
+		"uniques":["[+1 Science, +1 Production] from every [Camp], [+15]% Production <for [Ranged] Units>"]
+		"cities":["Drakhonikus","Dragon Pit","Wyvern","Drakeville","Wrymhome","Wingsky","Wixgan","Zhotmouth","Khaambus","Tuuset",
+			"Uzanta","Kroln","Zhumound","Ekrubus","Kluophull","Phodiff","Zhaagan","Kroipus","Yaicester","Grepbus",
+			"Ansmore","Kradena","Eighgow","Zhudcester","Wexville","Ancefast","Phalo","Iylaipsea","Khuvale","Wandiff","Ouisstin",
+			"Fluetgend","Uvusling","Wuumphia","Vence","Tuuridge","Yunmont","Afluoby","Zlathe","Ockgate","Clintmouth","Xuyshire"]
+	},
 ]
 
