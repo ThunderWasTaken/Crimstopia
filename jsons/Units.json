@@ -14,4 +14,33 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
     },
+	{
+		"name": "Dragon Archer",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"uniqueTo": "Drakhonikus",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 22,
+		"cost": 130,
+		"requiredTech": "Machinery",
+		"obsoleteTech": "Industrialization",
+		"upgradesTo": "Gatling Gun",
+		"promotions": ["Barrage I"],
+		"attackSound": "arrow"
+    },
+	{
+		"name": "Dragon Swordsman",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"uniqueTo": "Drakhonikus",
+		"movement": 2,
+		"strength": 19,
+		"cost": 85,
+		"requiredTech": "Machinery",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"promotions": ["Drill I"],
+		"attackSound": "metalhit"
+    },
   ]
