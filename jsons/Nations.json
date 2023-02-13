@@ -166,7 +166,7 @@
 		"innerColor": [71, 149, 252],
 		"favoredReligion": "Taoism",
 		"uniqueName": "Hunters of the Forest",
-		"uniques":["[+1 Production] from every [Camp], [+1 Science] from every [Camp], [+15]% Production <for [Ranged] Units>"]
+		"uniques":["[+1 Science] from [Forest], [+15]% Production <for [Ranged] Units>"]
 		"cities":["Drakhonikus","Dragon Pit","Wyvern","Drakeville","Wrymhome","Wingsky","Wixgan","Zhotmouth","Khaambus","Tuuset",
 			"Uzanta","Kroln","Zhumound","Ekrubus","Kluophull","Phodiff","Zhaagan","Kroipus","Yaicester","Grepbus",
 			"Ansmore","Kradena","Eighgow","Zhudcester","Wexville","Ancefast","Phalo","Iylaipsea","Khuvale","Wandiff","Ouisstin",
