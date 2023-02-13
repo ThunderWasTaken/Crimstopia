@@ -39,7 +39,7 @@
 		"strength": 18,
 		"cost": 90,
 		"requiredResource": "Iron"
-		"requiredTech": "Machinery",
+		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"promotions": ["Drill I"],
