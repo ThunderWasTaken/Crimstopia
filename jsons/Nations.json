@@ -79,7 +79,7 @@
 		"outerColor": [255, 222, 54],
 		"innerColor": [84, 70, 0],
 		"uniqueName": "Golden Touch",
-		"uniques": ["[+5 Gold, +5 Faith] from every [Customs House]", "[Great Merchant] is earned [100]% faster"],
+		"uniques": ["[+2 Gold, +5 Faith, +3 Culture] from [Customs House] tiles [in this city]", "[Great Merchant] is earned [100]% faster"],
 		"cities": ["Midasia","Silverhead","Copperstread","Mahogania","Platinum City","Diamondfist","Grandia","Crescent","Minestorm","Facilitus",
 			"Gretton","Aluca","Lexinstread","Sinton","Ashwood","Greatmen","Nivereh","Alloye","Anqua","Luzini",
 			"Hellstone","Adamantine","Titan","Mythrine","Goldenhand Estate","Arakon","Insinte","Blastin","Tradd","Songear",
@@ -108,7 +108,7 @@
 		"innerColor": [112, 0, 0],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Destroyers",
-		"uniques":["[-50]% maintenance costs for [Land] units","[Land] units gain the [Siege I] promotion"]
+		"uniques":["[-20]% maintenance costs for [Land] units","[Sword] units gain the [Siege I] promotion"]
 		"cities":["Scarletia","Annastashia","Orkenwel","Maund","Slectors","Cantoria","Ishin","Unstead","Zealots","Militian",
 			"Marks","Murtar","Sordenhome","Shields","Victor","Ziela","Qansen","Acolint","Zaint","Efrain",
 			"Jessic","Andere","Redfield","Darkwall","Mountsky","Bluen","Inferno","Asteno","Wernt","Kald","Tuarna",
@@ -165,8 +165,8 @@
 		"outerColor": [54, 71, 92],
 		"innerColor": [71, 149, 252],
 		"favoredReligion": "Taoism",
-		"uniqueName": "Hunters of the Forest",
-		"uniques":["[+1 Production, +1 Science] from every [Camp], [+15]% Production <for [Ranged] Units>"]
+		"uniqueName": "Draconic Hunters",
+		"uniques":["[+1 Culture, +1 Science] from [Camp] tiles [in this city]", "[+15]% Production <for [Ranged] Units>"]
 		"cities":["Drakhonikus","Dragon Pit","Wyvern","Drakeville","Wrymhome","Wingsky","Wixgan","Zhotmouth","Khaambus","Tuuset",
 			"Uzanta","Kroln","Zhumound","Ekrubus","Kluophull","Phodiff","Zhaagan","Kroipus","Yaicester","Grepbus",
 			"Ansmore","Kradena","Eighgow","Zhudcester","Wexville","Ancefast","Phalo","Iylaipsea","Khuvale","Wandiff","Ouisstin",
