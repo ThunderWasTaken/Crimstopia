@@ -166,7 +166,7 @@
 		"innerColor": [71, 149, 252],
 		"favoredReligion": "Taoism",
 		"uniqueName": "Draconic Hunters",
-		"uniques":["[+1 Culture, +1 Science] from [Camp] tiles [in this city]", "[+15% Production] <for [Ranged] units>"]
+		"uniques":["[+1 Culture, +1 Science] from [Camp] tiles [in this city]", "[+25% Production] <for [Archery] units>"]
 		"cities":["Drakhonikus","Dragon Pit","Wyvern","Drakeville","Wrymhome","Wingsky","Wixgan","Zhotmouth","Khaambus","Tuuset",
 			"Uzanta","Kroln","Zhumound","Ekrubus","Kluophull","Phodiff","Zhaagan","Kroipus","Yaicester","Grepbus",
 			"Ansmore","Kradena","Eighgow","Zhudcester","Wexville","Ancefast","Phalo","Iylaipsea","Khuvale","Wandiff","Ouisstin",
