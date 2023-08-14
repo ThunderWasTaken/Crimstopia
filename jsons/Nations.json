@@ -21,8 +21,8 @@
 		"outerColor": [38, 228, 54],
 		"innerColor": [55, 61, 183],
 		"favoredReligion": "Buddhism",
-		"uniqueName": "Winds of Hope",
-		"uniques":["[Land] units gain the [Drill I] promotion","Gain a free [Windmill] [in all cities]"]
+		"uniqueName": "Rough Terrain Training",
+		"uniques":["[Land] units gain the [Drill I] promotion","[+1 Production] from every [Hill]", "[+3 Production] from every [Mountain]"]
 		"cities":["Crimstopia","Thuntopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Eretchyan","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
@@ -79,7 +79,7 @@
 		"outerColor": [255, 222, 54],
 		"innerColor": [84, 70, 0],
 		"uniqueName": "Golden Touch",
-		"uniques": ["[+2 Gold, +5 Faith, +3 Culture] from [Customs House] tiles [in this city]", "[Great Merchant] is earned [100]% faster"],
+		"uniques": ["[+2 Gold, +5 Faith, +3 Culture] from [Customs house] tiles [in this city]", "[Great Merchant] is earned [100]% faster"],
 		"cities": ["Midasia","Silverhead","Copperstread","Mahogania","Platinum City","Diamondfist","Grandia","Crescent","Minestorm","Facilitus",
 			"Gretton","Aluca","Lexinstread","Sinton","Ashwood","Greatmen","Nivereh","Alloye","Anqua","Luzini",
 			"Hellstone","Adamantine","Titan","Mythrine","Goldenhand Estate","Arakon","Insinte","Blastin","Tradd","Songear",
