@@ -108,7 +108,7 @@
 		"innerColor": [112, 0, 0],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Destroyers",
-		"uniques":["[-20]% maintenance costs for [Land] units","[Sword] units gain the [Siege I] promotion"]
+		"uniques":["[-20]% maintenance costs for [Sword, Gunpowder] units","[Sword] units gain the [Besiege] promotion"]
 		"cities":["Scarletia","Annastashia","Orkenwel","Maund","Slectors","Cantoria","Ishin","Unstead","Zealots","Militian",
 			"Marks","Murtar","Sordenhome","Shields","Victor","Ziela","Qansen","Acolint","Zaint","Efrain",
 			"Jessic","Andere","Redfield","Darkwall","Mountsky","Bluen","Inferno","Asteno","Wernt","Kald","Tuarna",
