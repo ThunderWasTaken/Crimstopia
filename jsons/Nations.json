@@ -39,13 +39,13 @@
 
 		"declaringWar": "May the gods have mercy on your souls.",
 		"attacked": "Well that is just cute...",
-		"defeated": "This is 2035 all over again!",
+		"defeated": "YOU SON OF A-",
 		"introduction": "Hello.",
 
 		"neutralHello": "Yes?",
 		"hateHello": "Go away.",
 
-		"tradeRequest": "Shut up and accept or deny this trade.",
+		"tradeRequest": "It would be beneficial if you accept this.",
 
 		"outerColor": [135, 45, 189],
 		"innerColor": [0, 0, 0],
@@ -69,12 +69,12 @@
         "declaringWar": "Let us negotiate.",
 		"attacked": "Can we do this later?",
 		"defeated": "Will you let me go if I give you ten thousand?",
-		"introduction": "Ah! Another person to trade with!",
+		"introduction": "Ah! Another person to capitalize on!",
 
 		"neutralHello": "Is there something I can help you with?",
 		"hateHello": "Just know that I won't give you a discount.",
 
-		"tradeRequest": "I've been waiting to strike this trade for a while now!",
+		"tradeRequest": "I've been waiting to strike this trade for a while!",
 
 		"outerColor": [255, 222, 54],
 		"innerColor": [84, 70, 0],
@@ -97,7 +97,7 @@
 		"declaringWar": "You really should've seen this coming.",
 		"attacked": "Bring it on, you dog!",
 		"defeated": "This isn't over.",
-		"introduction": "You should savor your time, as it will end soon.",
+		"introduction": "I am Crimson Karita, kneel before me.",
 
 		"neutralHello": "What?",
 		"hateHello": "Go to hell.",
@@ -108,7 +108,7 @@
 		"innerColor": [112, 0, 0],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Destroyers",
-		"uniques":["[+20]% Production when constructing [Sword] units [in all cities]", "[Sword] units gain the [Besiege] promotion"]
+		"uniques":["[+20]% Production when constructing [Swordsman] units [in all cities]", "[+20]% Production when constructing [Longswordsman] units [in all cities]", "[Sword] units gain the [Besiege] promotion"]
 		"cities":["Scarletia","Annastashia","Orkenwel","Maund","Slectors","Cantoria","Ishin","Unstead","Zealots","Militian",
 			"Marks","Murtar","Sordenhome","Shields","Victor","Ziela","Qansen","Acolint","Zaint","Efrain",
 			"Jessic","Andere","Redfield","Darkwall","Mountsky","Bluen","Inferno","Asteno","Wernt","Kald","Tuarna",
@@ -166,7 +166,7 @@
 		"innerColor": [71, 149, 252],
 		"favoredReligion": "Taoism",
 		"uniqueName": "Draconic Hunters",
-		"uniques":["[+1 Culture, +1 Science] from [Camp] tiles [in this city]", "[+25]% Production when constructing [Archery] units [in all cities]"]
+		"uniques":["[+1 Culture, +1 Science] from [Camp] tiles [in this city]", "[+20]% Production when constructing [Composite Bowman] units [in all cities]", "[+20]% Production when constructing [Crossbowman] units [in all cities]"]
 		"cities":["Drakhonikus","Dragon Pit","Wyvern","Drakeville","Wrymhome","Wingsky","Wixgan","Zhotmouth","Khaambus","Tuuset",
 			"Uzanta","Kroln","Zhumound","Ekrubus","Kluophull","Phodiff","Zhaagan","Kroipus","Yaicester","Grepbus",
 			"Ansmore","Kradena","Eighgow","Zhudcester","Wexville","Ancefast","Phalo","Iylaipsea","Khuvale","Wandiff","Ouisstin",
