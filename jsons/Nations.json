@@ -108,7 +108,7 @@
 		"innerColor": [112, 0, 0],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Destroyers",
-		"uniques":["[+20% Production] <for [Sword] units>","[Sword] units gain the [Besiege] promotion"]
+		"uniques":["[+20]% Production when constructing [Swordsman] units [in all cities]", "[+20]% Production when constructing [Longswordsman] units [in all cities]","[Swordsman] units gain the [Besiege] promotion", "[Swordsman] units gain the [Besiege] promotion"]
 		"cities":["Scarletia","Annastashia","Orkenwel","Maund","Slectors","Cantoria","Ishin","Unstead","Zealots","Militian",
 			"Marks","Murtar","Sordenhome","Shields","Victor","Ziela","Qansen","Acolint","Zaint","Efrain",
 			"Jessic","Andere","Redfield","Darkwall","Mountsky","Bluen","Inferno","Asteno","Wernt","Kald","Tuarna",
@@ -166,7 +166,7 @@
 		"innerColor": [71, 149, 252],
 		"favoredReligion": "Taoism",
 		"uniqueName": "Draconic Hunters",
-		"uniques":["[+1 Culture, +1 Science] from [Camp] tiles [in this city]", "[+25% Production] <for [Archery] units>"]
+		"uniques":["[+1 Culture, +1 Science] from [Camp] tiles [in this city]"]
 		"cities":["Drakhonikus","Dragon Pit","Wyvern","Drakeville","Wrymhome","Wingsky","Wixgan","Zhotmouth","Khaambus","Tuuset",
 			"Uzanta","Kroln","Zhumound","Ekrubus","Kluophull","Phodiff","Zhaagan","Kroipus","Yaicester","Grepbus",
 			"Ansmore","Kradena","Eighgow","Zhudcester","Wexville","Ancefast","Phalo","Iylaipsea","Khuvale","Wandiff","Ouisstin",
